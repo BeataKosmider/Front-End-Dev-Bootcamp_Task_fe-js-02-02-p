@@ -1,4 +1,4 @@
-function pow() {
+const pow = (a, b) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
